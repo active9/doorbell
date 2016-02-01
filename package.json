@@ -1,0 +1,29 @@
+{
+  "name": "doorbell",
+  "version": "1.0.0",
+  "description": "Event System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/active9/doorbell"
+  },
+  "keywords": [
+    "door",
+    "bell",
+    "event",
+    "on",
+    "hook"
+  ],
+  "author": "Active 9 LLC.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/active9/doorbell/issues"
+  },
+  "homepage": "https://github.com/active9/doorbell",
+  "dependencies": {
+    "merge": "^1.2.0"
+  }
+}
