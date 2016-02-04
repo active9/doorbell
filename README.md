@@ -45,7 +45,7 @@ test.emit('bingbong');
 
 #CONTRIB
 
-Above is open-source via the MIT license we encourage Forking.
+Doorbell is open-source via the MIT license we encourage Forking.
 
 #LICENSE
 MIT
